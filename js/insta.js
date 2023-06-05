@@ -1,6 +1,6 @@
 const InitInstaFunc = () => {
     const feed = new Instafeed({
-        accessToken: 'IGQVJYZAWVjV3Q2b0dtZAWlOY0F5UUdoTDA1ek9GeGt5UVU5THRubEphcnVDVWlMYmZAWT1E4aG94cHQ5eUtJd2NoOUtRcnFqZAHVVM1ZAVdk5neG14OXl1UklRLXNoNXl6WmJadmVqUFl2dlFPRWlRWThDNgZDZD'
+        accessToken: 'IGQVJXWk5sd2hETTBLeWYxVnpwSmE0ZA1dVT3hmNmxtNFZAqZAU1PUnZAmM29IWHM5bXlPSTdjZAFZAoU1Bnd2R0Qlo4ZAHNZAa0FXY1ZAfb1p4VGkya3p2VlAyMDJ6WWcwSXdkXzdfVC1aOHhLVVlEc3gwakx4WgZDZD'
     });
     feed.run();
 
